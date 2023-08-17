@@ -38,6 +38,10 @@ def update_collaboration_expiration(client, id):
     else:
         return None
 
+# TODO
+def get_collaborations():
+    return []
+
 def read_creds(filename):
 
     with open(filename) as file:
