@@ -1,0 +1,4 @@
+name: box
+dependencies:
+  - pip:
+    - boxsdk
